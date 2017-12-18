@@ -1,4 +1,4 @@
-### Prdict House prices in City of NewYork 
+### Predict House prices in the City of NewYork 
 
 #### Blurb:
 
